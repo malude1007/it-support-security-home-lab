@@ -1,6 +1,6 @@
 # System info screenshots
 
-##Baseline Screenshots
+## Baseline Screenshots
 
 1. User and hostname running hostnamectl
 <img width="502" height="42" alt="image" src="https://github.com/user-attachments/assets/1095c468-b11a-4286-a7b4-2e0a170f8680" />
