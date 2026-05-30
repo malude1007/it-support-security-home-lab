@@ -1,1 +1,12 @@
+# Case 0.1: Setup of a new Windows 11 VM
 
+## Scenario
+
+In order to practice I performed the setup a new Windows 11 Virtual Machine on Oracle VirtualBox. 
+
+
+
+Command used:
+
+```cmd
+ipconfig /all
