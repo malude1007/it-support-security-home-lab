@@ -1,1 +1,34 @@
+# Case [Number]: Case Title
 
+## Scenario
+
+Brief description of the scenario: Example  The user reports that the Windows workstation cannot access the internet.
+
+## Symptoms
+
+-Examples:
+
+- Browser does not load websites
+- Network icon shows limited or no connectivity
+- User cannot access internal or external resources
+
+## Initial Questions
+
+Examples:
+
+- Is the issue affecting only one device or multiple devices?
+- Is the device connected by Wi-Fi or Ethernet?
+- Did the issue start after a recent change?
+- Can the user access any websites or internal resources?
+
+## Diagnostic Steps
+
+Examples:
+
+### 1. Check IP configuration
+### 2. Power cycle modem if possible
+
+Command used:
+
+```cmd
+ipconfig /all
