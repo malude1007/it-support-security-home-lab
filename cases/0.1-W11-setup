@@ -17,27 +17,27 @@ Set up a new Windows virtual machine to practice Help Desk, IT Support, and Desk
 
 ## Setup Steps
 
-1. Downloaded and installed VirtualBox. Done
-2. Downloaded the Windows 11 ISO. Done
-3. Created a new virtual machine named Windows-11. Done
-4. Assigned RAM, CPU, and virtual disk resources. Done
-5. Installed Windows 11. Done
-6. Renamed the computer to Win-Support-Lab. Done
-7. Installed Windows updates. Done
-8. Installed VirtualBox Guest Additions. Done
-9. Configured NAT networking. Done
-10. Created a clean baseline snapshot. Done
+1. Downloaded and installed VirtualBox. 
+2. Downloaded the Windows 11 ISO.
+3. Created a new virtual machine named Windows-11.
+4. Assigned RAM, CPU, and virtual disk resources.
+5. Installed Windows 11.
+6. Renamed the computer to Win-Support-Lab.
+7. Installed Windows updates.
+8. Installed VirtualBox Guest Additions.
+9. Configured NAT networking.
+10. Created a clean baseline snapshot.
 
 ## Validation Done
 
-- Windows boots successfully. Yes
-- Internet connection works. Yes
-- Windows Update runs correctly. Yes
-- Guest Additions are installed. Yes
+- Windows boots successfully. Positive
+- Internet connection works: verified using ipconfig, ping and nslookupcomands
+- Windows Update runs correctly: Updates are downloading and installing smoothly.
+- Guest Additions are installed: VirtualBox Guest Additions Drive created and installion program run. Reboot performed after installation. 
 - Clipboard works between host and VM. Yes. Bidirectional
 - Snapshot was created successfully. Yes
 
-## Screenshots Done
+## Screenshots
 
 - VM configuration
 - Windows version
@@ -45,7 +45,7 @@ Set up a new Windows virtual machine to practice Help Desk, IT Support, and Desk
 - Network adapter settings
 - Snapshot baseline
 
-## Lessons Learned Pending
+## Lessons Learned Done
 
 This setup created a safe and controlled Windows environment where support scenarios can be tested, documented, and restored using snapshots.
 
