@@ -24,20 +24,20 @@ Set up a new Windows virtual machine to practice Help Desk, IT Support, and Desk
 5. Installed Windows 11. Done
 6. Renamed the computer to Win-Support-Lab. Done
 7. Installed Windows updates. Done
-8. Installed VirtualBox Guest Additions. Pending
-9. Configured NAT networking. Pending
-10. Created a clean baseline snapshot. Pending
+8. Installed VirtualBox Guest Additions. Done
+9. Configured NAT networking. Done
+10. Created a clean baseline snapshot. Done
 
-## Validation Pending
+## Validation Done
 
-- Windows boots successfully.
-- Internet connection works.
-- Windows Update runs correctly.
-- Guest Additions are installed.
-- Clipboard works between host and VM.
-- Snapshot was created successfully.
+- Windows boots successfully. Yes
+- Internet connection works. Yes
+- Windows Update runs correctly. Yes
+- Guest Additions are installed. Yes
+- Clipboard works between host and VM. Yes. Bidirectional
+- Snapshot was created successfully. Yes
 
-## Screenshots Pending
+## Screenshots Done
 
 - VM configuration
 - Windows version
